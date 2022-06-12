@@ -1,0 +1,10 @@
+name: JoeyScoreboard
+version: '${project.version}'
+main: me.joey.JoeyScoreboard
+api-version: 1.18
+authors: [ Shreonk, Joey ]
+description: Custom Scoreboard made by Shreonk
+
+commands:
+  joeyscoreboard:
+    description: reloads plugin config

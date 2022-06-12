@@ -1,0 +1,7 @@
+scoreboardtitle: "&1-----ScoreBoard-----"
+scoreboardline1: "&bIn-game Name: &a&o%player%"
+scoreboardline2: "&bBalance: &a&o$%balance%"
+scoreboardline3: "&bsomething will go here"
+scoreboardline4: "&bsomething will go here"
+scoreboardline5: "&bsomething will go here"
+scoreboardline6: "&a%motd%"
